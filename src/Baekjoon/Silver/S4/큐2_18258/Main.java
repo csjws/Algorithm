@@ -1,4 +1,4 @@
-package Baekjoon.Silver.큐2_18258;
+package Baekjoon.Silver.S4.큐2_18258;
 
 import java.io.BufferedReader;
 import java.io.IOException;

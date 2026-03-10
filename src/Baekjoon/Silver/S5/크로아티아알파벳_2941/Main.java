@@ -1,4 +1,4 @@
-package Baekjoon.Silver.크로아티아알파벳_2941;
+package Baekjoon.Silver.S5.크로아티아알파벳_2941;
 
 import java.util.Scanner;
 

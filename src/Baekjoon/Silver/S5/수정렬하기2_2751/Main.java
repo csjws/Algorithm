@@ -1,4 +1,4 @@
-package Baekjoon.Silver.수정렬하기2_2751;
+package Baekjoon.Silver.S5.수정렬하기2_2751;
 
 
 import java.io.BufferedReader;
