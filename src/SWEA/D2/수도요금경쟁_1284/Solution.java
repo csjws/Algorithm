@@ -1,3 +1,4 @@
+package SWEA.D2.수도요금경쟁_1284;
 import java.util.*;
 import java.io.FileInputStream;
 class Solution

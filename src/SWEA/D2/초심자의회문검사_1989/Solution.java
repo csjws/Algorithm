@@ -1,3 +1,4 @@
+package SWEA.D2.초심자의회문검사_1989;
 import java.util.*;
 import java.io.FileInputStream;
 

@@ -1,3 +1,4 @@
+package SWEA.D2.조교의성적매기기_1983;
 import java.util.*;
 import java.io.FileInputStream;
 

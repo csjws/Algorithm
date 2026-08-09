@@ -1,3 +1,4 @@
+package SWEA.D2.패턴마디의길이_2007;
 import java.util.*;
 import java.io.FileInputStream;
 

@@ -1,3 +1,4 @@
+package SWEA.D2.새로운불면증치료법_1288;
 import java.util.Scanner;
 import java.io.FileInputStream;
 
